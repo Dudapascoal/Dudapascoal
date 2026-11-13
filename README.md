@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![DevCore — Maria Eduarda Pascoal](assets/header.svg)
+![DevCore — Maria Eduarda Pascoal](header.svg)
 
 **Desenvolvimento web · UX/UI · Acessibilidade · Automação**
 
@@ -19,7 +19,7 @@ Técnico em Análise e Desenvolvimento de Sistemas — SENAI (2024–2025, concl
 
 Tecnólogo em Análise e Desenvolvimento de Sistemas — UNISENAI (2026–2027, em andamento).
 
-![Separador](assets/section.svg)
+![Separador](section.svg)
 
 ## Tecnologias
 
@@ -29,7 +29,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas — UNISENAI (2026–2027, 
 
 **Design e ferramentas:** Figma · Git · GitHub · AWS
 
-![Separador](assets/section.svg)
+![Separador](section.svg)
 
 ## Projetos
 
@@ -55,7 +55,7 @@ Calculadora interativa com histórico e funcionalidades adicionais.
 
 [**Explorar todos os repositórios**](https://github.com/Dudapascoal?tab=repositories)
 
-![Separador](assets/section.svg)
+![Separador](section.svg)
 
 ## Atividade no GitHub
 
@@ -65,7 +65,7 @@ Acompanhe meus projetos, contribuições e tecnologias diretamente pelo GitHub.
 
 [**Explorar linguagens e repositórios**](https://github.com/Dudapascoal?tab=repositories)
 
-![Separador](assets/section.svg)
+![Separador](section.svg)
 
 ## Certificações
 
@@ -76,4 +76,3 @@ AWS Cloud Practitioner Foundations · Cisco CCNA 1 e 2 · Google Cloud Foundatio
 <sub>DevCore · Maria Eduarda Pascoal</sub>
 
 </div>
-

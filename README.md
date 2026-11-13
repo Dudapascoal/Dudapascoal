@@ -38,13 +38,22 @@ Desenvolvimento Web | UX/UI Design | Automação | Acessibilidade | Inteligênci
 
 ---
 
+
 ## Estatísticas do GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dudapascoal&show_icons=true&hide_border=true&bg_color=081C30&title_color=8ED4FF&text_color=E7F4FF&icon_color=58B9F5&include_all_commits=true" alt="Estatísticas do GitHub" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dudapascoal&theme=github_dark"
+  height="170"
+  alt="Estatísticas do GitHub"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudapascoal&layout=compact&hide_border=true&bg_color=081C30&title_color=8ED4FF&text_color=E7F4FF&langs_count=8" alt="Linguagens mais utilizadas" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dudapascoal&theme=github_dark"
+  height="170"
+  alt="Linguagens mais utilizadas"
+/>
 
 </div>
 
@@ -54,7 +63,11 @@ Desenvolvimento Web | UX/UI Design | Automação | Acessibilidade | Inteligênci
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dudapascoal&bg_color=081C30&color=8ED4FF&line=2389D7&point=FFFFFF&area=true&area_color=126AA6&hide_border=true" alt="Gráfico de contribuições" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dudapascoal&theme=github_dark"
+  width="95%"
+  alt="Atividade e contribuições"
+/>
 
 </div>
 

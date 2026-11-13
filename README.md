@@ -28,68 +28,7 @@ Sou **Maria Eduarda Pascoal**, desenvolvedora Full Stack apaixonada por criar so
 
 </div>
 
-## ✦ Projetos em destaque
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-###  Supply Quest
-Jogo educativo de logística com minigames, KPIs, benchmarking e decisões estratégicas.
-
-**Tecnologias:** HTML, CSS, JavaScript
-
-[▶ Jogar](https://tiagocsz.github.io/Supply-Quest/)
-
-</td>
-<td width="50%" valign="top">
-
-###  DevCore
-Portfólio pessoal responsivo com projetos, certificações, temas e recursos de acessibilidade.
-
-**Tecnologias:** HTML, CSS, JavaScript
-
-[↗ Ver repositório](https://github.com/Dudapascoal/DevCore)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-###  Calculux
-Calculadora temática com histórico de operações e recursos adicionais de lógica e datas.
-
-**Tecnologias:** HTML, CSS, JavaScript
-
-</td>
-<td width="50%" valign="top">
-
-###  Blueway
-Projeto de plataforma digital para apoiar a educação de crianças autistas.
-
-**Foco:** acessibilidade, educação e UX
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-###  SCLA Caminhões
-E-commerce educativo de peças, com carrinho, autenticação e cálculo de frete.
-
-**Foco:** desenvolvimento web
-
-</td>
-<td width="50%" valign="top">
-
-### Óticas Prevent
-Experiência digital de ótica com autenticação e experimentação virtual de óculos.
-
-**Foco:** interface e realidade aumentada
-
-</td>
-</tr>
-</table>
 
 ## ✦ Meu GitHub em números
 
